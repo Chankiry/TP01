@@ -55,7 +55,7 @@
 
   const fruits= [
     {
-      name:"Cat & Milk",
+      name:"Cake & Milk",
       ImageUrl: img1,
       Description: "14 Items",
       Bg: "bg-[#F2FCE4]"
